@@ -12,7 +12,7 @@ import SoftwareDeveloper from 'India';
 class Bio extends SoftwareDeveloper {
   name     = 'Nehal Ahmad';
   title    = 'Software Engineer' || 'Full Stack Web Developer';
-  location = 'Kolkata, India';
+  location = 'Bihar, India';
   availability = "Available to hire!!";
 }
 class Skills extends SoftwareDeveloper {
