@@ -10,7 +10,7 @@
  ```js
 import SoftwareDeveloper from 'India';
 class Bio extends SoftwareDeveloper {
-  name     = 'Md Furkan';
+  name     = 'Nehal Ahmad';
   title    = 'Software Engineer' || 'Full Stack Web Developer';
   location = 'Kolkata, India';
   availability = "Available to hire!!";
@@ -21,12 +21,12 @@ class Skills extends SoftwareDeveloper {
   ui = ['Chakra-Ui', 'Material-Ui', 'Styled-Components', 'Bootstrap'];
 }
 ```
-<!-- https://github.com/Furkan9623?tab=followers -->
+<!-- https://github.com/nehalahmad11?tab=followers -->
 
-<!-- <img src="https://komarev.com/ghpvc/?username=Furkan9623/&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> -->
+<!-- <img src="https://komarev.com/ghpvc/?username=nehalahmad11/&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> -->
 <br/>
 <p align="centre"> 
-<a href="https://github.com/Furkan9623/?tab=followers"><img src="https://img.shields.io/github/followers/shivraj32644?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/nehalahmad11/?tab=followers"><img src="https://img.shields.io/github/followers/shivraj32644?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
 <h3><i>Tech Stack <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></i></h3>
@@ -73,16 +73,16 @@ class Skills extends SoftwareDeveloper {
 </p>
 <br />
 <div>
-  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Furkan9623&show_icons=true&theme=gradient" />
-  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furkan9623&layout=compact" />
+  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=nehalahmad11&show_icons=true&theme=gradient" />
+  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehalahmad11&layout=compact" />
   
 </div>
 <br />
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=shivraj32644&theme=minimal" alt="activitygraph" />  -->
 <br />
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Furkan9623" alt=""/></p>
-<p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=Furkan9623" alt=""/> </p>
-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Furkan9623&theme=vue" alt="summarycard"/> </p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nehalahmad11" alt=""/></p>
+<p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=nehalahmad11" alt=""/> </p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nehalahmad11&theme=vue" alt="summarycard"/> </p>
 <hr />
 
 <p align="centre" margin="auto">Thanks a lot. :heart:<p>
